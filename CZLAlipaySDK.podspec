@@ -1,12 +1,15 @@
 Pod::Spec.new do |s|
   s.name              = "CZLAlipaySDK"
   s.version           = "15.0.2"
-  s.summary           = "Alipay SDK for iOS. You can create alipay order or sign orders with `Order` subspec."
+  s.summary           = "Alipay SDK for iOS. ."
   s.homepage          = "https://b.alipay.com/newIndex.htm"
+  s.description  = <<-DESC
+                   同步支付宝sdk更新,同步支付宝sdk更新,同步支付宝sdk更新,同步支付宝sdk更新
+                   DESC
   s.license           = {
     :type => 'Copyright',
     :text => <<-LINCENSE
-      支付宝(中国)网络技术有限公司 ^? 版权所有.
+      支付宝(中国)网络技术有限公司  版权所有.
       LINCENSE
   }
   s.author            = { "AliPay" => "http://www.alipay.com/" }
